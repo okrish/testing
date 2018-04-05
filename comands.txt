@@ -8,6 +8,8 @@
 >	git add .  // "."(Dot)  add the all fines in that folder
 >	git rm --cached <File name>  //remove a file 
 >	git status //to know the status 
->	
+>	git commit -m 'commentComesHere'
 
+>	touch .gitignore  // create a ignore log file
+>	touch log.text   // to reate a log file
 
