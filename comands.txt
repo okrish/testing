@@ -9,7 +9,9 @@
 >	git rm --cached <File name>  //remove a file 
 >	git status //to know the status 
 >	git commit -m 'commentComesHere'
+>	git  git push  // to push the files
+>	git clone <URL to clone>  //to pull everything
 
 >	touch .gitignore  // create a ignore log file
 >	touch log.text   // to reate a log file
-
+Source for above comands : https://www.youtube.com/watch?v=SWYqp7iY_Tc
