@@ -1,0 +1,13 @@
+>	git --version   // to know the version
+>	touch fileName.txt  // to create a file use word touch+ fileName+ extension  
+>	get int  // int= initilize
+>	git config --global user.name 'Vamsi Krishna' // SET name
+>	git config --global user.email 'vamsikrishna.battula@gmail.com'
+>	git add <fileName.txt>   // to add a file to a git repository
+>	git add *.html  // to add all files having same extension 
+>	git add .  // "."(Dot)  add the all fines in that folder
+>	git rm --cached <File name>  //remove a file 
+>	git status //to know the status 
+>	
+
+
